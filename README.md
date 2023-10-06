@@ -23,10 +23,125 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
+```
 
+<html lang="en">
+<head>
+<title>Slot Timetable</title>
+</head>
+<body>
+<center>
+<img src ="http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" width="800" Height="150">
+</center>
+<br>
+<table align="center" width="750" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<caption><i><b><h3>SLOT TIME TABLE - Saravanan C (212222110041)</h3><b></i></caption>
+<tr align="center">
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="yellow">Thursday</th>
+<th bgcolor="yellow">Friday</th>
+</tr>
+
+<tr align="center">
+<th bgcolor="yellow">8-10</th>
+<td></td>
+<td>FWAD</td>
+<td>C Programming</td>
+<td colspan="5,6">FREE SLOT</td>
+</tr>
+
+<tr align="center">
+<th bgcolor="yellow">10-12</th>
+<td>Transforms</td>
+<td>Probability</td>
+<td>Probability</td>
+<td></td>
+<td>PMC</td>
+</tr>
+
+<tr>
+<th bgcolor="yellow">12-1</th>
+<td colspan="5" align="center">L U N C H</td>
+</tr>
+
+<tr align="center">
+<th bgcolor="yellow">1-3</th>
+<td colspan="1"> OS </td>
+<td>C Programming</td>
+<td>Transforms</td>
+<td>EDM</td>
+<td></td>
+</tr>
+
+<tr align="center">
+<th bgcolor="yellow">3-5</th>
+<td colspan="1">EDM</td>
+<td>PMC</td>
+<td></td>
+<td>FWAD</td>
+<td></td>
+</tr>
+
+</table>
+<br>
+<table align="center" width="750" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals of Web Application Development (FWAD)</td>
+</tr>
+
+<tr>
+<td align="center">2.</td>
+<td align="center">19CS405</td>
+<td>OS</td>
+</tr>
+
+<tr>
+<td align="center">3.</td>
+<td align="center">19AI302</td>
+<td>EDM</td>
+</tr>
+
+<tr>
+<td align="center">4.</td>
+<td align="center">19EE309</td>
+<td>Microcontroller(PMC)</td>
+</tr>
+
+<tr>
+<td align="center">5.</td>
+<td align="center">19AI304</td>
+<td>C Programming</td>
+</tr>
+
+<tr>
+<td align="center">6.</td>
+<td align="center">19MA219</td>
+<td>Transforms</td>
+</tr>
+
+<tr>
+<td align="center">7.</td>
+<td align="center">19MA222</td>
+<td>Probability</td>
+</table>
+</body>
+</html>
+```
 
 ## OUTPUT
 
+![Slot Timetable — Mozilla Firefox 06-10-2023 23_23_44 (2)](https://github.com/saravanan2607/slot/assets/121395849/05bd0a2a-3d48-49bd-951d-fcc8af916baa)
 
 ## HTML VALIDATOR
 
