@@ -143,7 +143,8 @@ Execute the program using runserver command.
 ![Slot html - slot - Visual Studio Code 20-10-2023 09_06_48](https://github.com/saravanan2607/slot/assets/121395849/28166cee-f96a-43e8-8bc3-925c741d9bb9)
 ![Slot html - slot - Visual Studio Code 20-10-2023 09_06_57](https://github.com/saravanan2607/slot/assets/121395849/c655197e-1b7d-4df4-abfb-826260a60519)
 ![Slot html - slot - Visual Studio Code 20-10-2023 09_07_12](https://github.com/saravanan2607/slot/assets/121395849/fda08109-d54f-4784-9858-1c3152a5d906)
-![Slot Timetable — Mozilla Firefox 20-10-2023 09_07_29](https://github.com/saravanan2607/slot/assets/121395849/db20d5a5-2e3f-4c11-a70b-8dba33fe8237)
+
+![Screenshot (15)](https://github.com/saravanan2607/slot/assets/121395849/98dfd734-f125-487e-b858-7ce594b25bdb)
 
 
 
