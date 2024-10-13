@@ -1,4 +1,5 @@
 # Ex03 Time Table
+# Date : 13/10/24
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -146,9 +147,6 @@ Execute the program using runserver command.
 
 ![Screenshot (15)](https://github.com/saravanan2607/slot/assets/121395849/98dfd734-f125-487e-b858-7ce594b25bdb)
 
-
-
-## HTML VALIDATOR
 
 
 ## RESULT
