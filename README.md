@@ -27,64 +27,71 @@ Execute the program using runserver command.
 ## CODE :
 ```
 
+
 <html lang="en">
 <head>
 <title>Slot Timetable</title>
 </head>
 <body>
 <center>
-<img src ="http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" width="800" Height="150">
+<img src ="/static/logo.png" width="800" Height="150">
 </center>
 <br>
-<table align="center" width="750" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<table align="center" width="750" cellspacing="2" cellpadding="4" border="5" bgcolor="grey">
 <caption><i><b><h3>SLOT TIME TABLE - Saravanan C (212222110041)</h3><b></i></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday</th>
-<th bgcolor="yellow">Tuesday</th>
-<th bgcolor="yellow">Wednesday</th>
-<th bgcolor="yellow">Thursday</th>
-<th bgcolor="yellow">Friday</th>
+<th bgcolor="red">Day/Time</th>
+<th bgcolor="green">Monday</th>
+<th bgcolor="green">Tuesday</th>
+<th bgcolor="green">Wednesday</th>
+<th bgcolor="green">Thursday</th>
+<th bgcolor="green">Friday</th>
+<th bgcolor="green">Saturday</th>
 </tr>
 
 <tr align="center">
-<th bgcolor="yellow">8-10</th>
+<th bgcolor="red">8-10</th>
+<td>PMC</td>
+<td>PLA</td>
+<td>C Programming</td>
+<td>DBMS</td>
 <td></td>
 <td>FWAD</td>
-<td>C Programming</td>
-<td colspan="5,6">FREE SLOT</td>
 </tr>
 
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
-<td>Transforms</td>
-<td>Probability</td>
-<td>Probability</td>
+<th bgcolor="red">10-12</th>
+<td>FOC</td>
 <td></td>
 <td>PMC</td>
+<td>FWAD</td>
+<td>OS</td>
+<td></td>
 </tr>
 
 <tr>
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="red">12-1</th>
 <td colspan="5" align="center">L U N C H</td>
 </tr>
 
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
-<td colspan="1"> OS </td>
-<td>C Programming</td>
-<td>Transforms</td>
-<td>EDM</td>
+<th bgcolor="red">1-3</th>
+<td colspan="1">EES</td>
 <td></td>
+<td>MM</td>
+<td></td>
+<td></td>
+<td>PLA</td>
 </tr>
 
 <tr align="center">
-<th bgcolor="yellow">3-5</th>
-<td colspan="1">EDM</td>
-<td>PMC</td>
+<th bgcolor="red">3-5</th>
+<td colspan="1">FWAD</td>
+<td>PLA</td>
+<td>PLA</td>
+<td>OS</td>
 <td></td>
-<td>FWAD</td>
-<td></td>
+<td>DBMS</td>
 </tr>
 
 </table>
@@ -98,57 +105,50 @@ Execute the program using runserver command.
 
 <tr>
 <td align="center">1.</td>
-<td align="center">19AI414</td>
-<td>Fundamentals of Web Application Development (FWAD)</td>
+<td align="center">19AI301</td>
+<td>PLA</td>
 </tr>
 
 <tr>
 <td align="center">2.</td>
+<td align="center">19AI414</td>
+<td>FWAD</td>
+</tr>
+
+<tr>
+<td align="center">3.</td>
+<td align="center">19AI304</td>
+<td>FOC</td>
+</tr>
+
+<tr>
+<td align="center">4.</td>
 <td align="center">19CS405</td>
 <td>OS</td>
 </tr>
 
 <tr>
-<td align="center">3.</td>
-<td align="center">19AI302</td>
-<td>EDM</td>
-</tr>
-
-<tr>
-<td align="center">4.</td>
-<td align="center">19EE309</td>
-<td>Microcontroller(PMC)</td>
-</tr>
-
-<tr>
 <td align="center">5.</td>
-<td align="center">19AI304</td>
-<td>C Programming</td>
+<td align="center">19CS404</td>
+<td>DBMS</td>
 </tr>
 
 <tr>
 <td align="center">6.</td>
-<td align="center">19MA219</td>
-<td>Transforms</td>
+<td align="center">19EY712</td>
+<td>EES</td>
 </tr>
 
 <tr>
 <td align="center">7.</td>
-<td align="center">19MA222</td>
-<td>Probability</td>
+<td align="center">19EE309</td>
+<td>PMC</td>
 </table>
 </body>
 </html>
 ```
 
 ## OUTPUT :
-![Slot html - slot - Visual Studio Code 20-10-2023 09_06_48](https://github.com/saravanan2607/slot/assets/121395849/28166cee-f96a-43e8-8bc3-925c741d9bb9)
-![Slot html - slot - Visual Studio Code 20-10-2023 09_06_57](https://github.com/saravanan2607/slot/assets/121395849/c655197e-1b7d-4df4-abfb-826260a60519)
-![Slot html - slot - Visual Studio Code 20-10-2023 09_07_12](https://github.com/saravanan2607/slot/assets/121395849/fda08109-d54f-4784-9858-1c3152a5d906)
-
-![Screenshot (15)](https://github.com/saravanan2607/slot/assets/121395849/98dfd734-f125-487e-b858-7ce594b25bdb)
-
-
-
+![Slot Timetable](https://github.com/user-attachments/assets/5886a742-7f8e-45ad-99ee-f7599e20349e)
 ## RESULT :
 The program for creating slot timetable using basic HTML tags is executed successfully.
